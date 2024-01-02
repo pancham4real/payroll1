@@ -1,0 +1,18 @@
+.p-spacing-lg-right-70 { padding-right: 70px;}
+
+h5.subtitle {color: #dc3545; font-size: 14px; text-transform: uppercase; margin-bottom: 0px;}
+.service-box { margin-top: 40px; padding: 0 10px;}
+.service-box .media { margin: 20px 0px;}
+.service-box img { width: 70px;}
+.service-box .mr-3 { width: 70px;}
+
+.media { display: flex; align-items: flex-start; }
+.media-body { flex: 1;}
+  
+.service-box .media-body h5 {margin-bottom: 5px;}
+.service-box .media-body p {font-size: 14px; line-height: 25px;}
+
+.right-pane { position: relative;}
+.image-badge { background-color: #FFF; padding: 35px; max-width: 300px; position: absolute; bottom: 15px; left: 15px; outline: 1px dashed #dc3545;    outline-offset: -15px;    margin-left: -80px;    -webkit-box-shadow: 0 0 11px 0 rgba(6, 22, 58, .14);    -moz-box-shadow: 0 0 11px 0 rgba(6, 22, 58, .14);    box-shadow: 0 0 11px 0 rgba(6, 22, 58, .14);}
+.ib-icon { width: 60px;}
+.image-badge h4 { margin-top: 15px;}

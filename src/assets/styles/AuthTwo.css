@@ -1,0 +1,17 @@
+.auth,
+.image { min-height: 100vh;}
+
+/* Custom CSS */
+.border-1 {
+    border-width: 1px;
+}
+.rounded-r-none {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+.border-r-0{
+    border-right: 0 !important;
+}
+.border-l-0{
+    border-right: 0 !important;
+}

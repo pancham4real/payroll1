@@ -1,0 +1,17 @@
+.leftnav nav { position: relative; background: none !important;}
+.leftnav nav ul {list-style: none;margin: 0;padding: 0;}
+
+.leftnav nav ul li { background-color: #fff; margin-bottom: 10px; }
+.leftnav nav ul li ul li {background-color: #fff; margin-bottom: 0px;}
+
+.leftnav nav ul ul li  { border-top: 1px solid #ded9d9;}
+.leftnav nav ul ul li:nth-last-child(1)  { border-bottom: 1px solid #ded9d9;}
+
+.leftnav nav ul li a {display: block;padding: 20px;	text-decoration: none;	-webkit-transition: 0.2s linear; -moz-transition: 0.2s linear;-ms-transition: 0.2s linear;	-o-transition: 0.2s linear;
+	transition: 0.2s linear;  display: flex; justify-content: space-between; font-weight: 500;  font-size: 17px;  border-left: 6px solid #fff;}
+.leftnav nav ul li svg{margin-top:5px}
+.leftnav nav ul li a:hover {background: #e1e1e1; border-left: 6px solid #c9252c;}
+.leftnav nav ul li a .fa {width: 16px;text-align: center;margin-right: 5px;	float:right;}
+
+.leftnav nav ul li ul li a {border-left: 6px solid transparent;	padding: 20px;}
+.leftnav nav ul li ul li a:hover {border-left: 6px solid #c9252c;}

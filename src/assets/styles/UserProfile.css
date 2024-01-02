@@ -1,0 +1,10 @@
+.userprofile {background: #f8f7f7;}
+.userprofile .profile-cover{ min-height: 180px;}
+.userprofile .rounded-circle { border-radius: 50%!important;    margin-top: -60px; border: 3px solid #eee;  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.45);}
+.userprofile .card-header {background: #f3f3f3; color: #0f0f0f; font-size: 22px; font-weight: 600; padding: 13px; text-transform: uppercase;}
+.userprofile .file-field input[type=file] { max-width: 230px; position: absolute; cursor: pointer;  filter: alpha(opacity=0); opacity: 0; padding-bottom: 30px;}
+.userprofile .upload { background: #eee; padding: 5px; border: 4px dashed #b8b6b1;}
+/* reactdatepicker input & icon */
+.react-date {display: flex; flex-wrap: nowrap; flex-direction: column;}
+.react-datepicker__view-calendar-icon input {padding: .75rem .75rem .75rem 2.8rem !important}
+.react-datepicker__input-container .react-datepicker__calendar-icon { position: absolute; padding: 0 !important; margin: 1rem;}
